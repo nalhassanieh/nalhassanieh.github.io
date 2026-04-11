@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Nour Al Hassanieh Academic Personal Website"
+title: "Nour Al Hassanieh"
 author_profile: true
 redirect_from: 
   - /about/
