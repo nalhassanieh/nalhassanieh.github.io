@@ -23,7 +23,7 @@ repository               : "nalhassanieh/nalhassanieh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "/images/profile.jpg"
   name             : "Nour Al Hassanieh"
   pronouns         : # example: "she/her"  
   bio              : "Flatiron Research Fellow"
