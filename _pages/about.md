@@ -7,3 +7,12 @@ redirect_from:
   - /about.html
 ---
 I work on developing fast and accurate time-domain schemes for the classical wave equation, especially wave-scattering applications. 
+I work on developing fast and accurate time-domain schemes for the classical wave equation, especially wave-scattering applications. 
+I work on developing fast and accurate time-domain schemes for the classical wave equation, especially wave-scattering applications. 
+I work on developing fast and accurate time-domain schemes for the classical wave equation, especially wave-scattering applications. 
+I work on developing fast and accurate time-domain schemes for the classical wave equation, especially wave-scattering applications. 
+I work on developing fast and accurate time-domain schemes for the classical wave equation, especially wave-scattering applications. 
+I work on developing fast and accurate time-domain schemes for the classical wave equation, especially wave-scattering applications. 
+I work on developing fast and accurate time-domain schemes for the classical wave equation, especially wave-scattering applications. 
+I work on developing fast and accurate time-domain schemes for the classical wave equation, especially wave-scattering applications. 
+I work on developing fast and accurate time-domain schemes for the classical wave equation, especially wave-scattering applications. 
