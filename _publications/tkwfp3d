@@ -1,0 +1,13 @@
+---
+title: "Truncated kernel windowed Fourier projection: a fast algorithm for the 3D free-space wave equation"
+collection: publications
+category: manuscripts
+permalink: /publication/2025-truncated-kernel-windowed-fourier/
+date: 2025-01-01
+venue: "arXiv preprint"
+paperurl: "https://arxiv.org/abs/2511.20824"
+arxiv: "2511.20824"
+citation: "Al Hassanieh, N. G., Barnett, A. H., & Greengard, L. (2025). Truncated kernel windowed Fourier projection: a fast algorithm for the 3D free-space wave equation. arXiv preprint arXiv:2511.20824."
+---
+
+We propose a fast algorithm for the 3D free-space wave equation based on truncated kernel windowed Fourier projection. The method accelerates time-domain wave propagation computations by combining kernel truncation with Fourier projection techniques, enabling efficient evaluation of large-scale wave problems.
