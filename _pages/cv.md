@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Mathematics, Rensselaer Polytechnic Institute, Troy, NY, 2023
+* M.S. in Mathematics, American University of Beirut, Beirut, Lebanon, 2016
+* B.S. in Mathematics, Haigazian University, Beirut, Lebanon, 2014
 
-Work experience
+<!-- Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
@@ -40,13 +40,14 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
+-->
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+  <!--
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
@@ -62,3 +63,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
