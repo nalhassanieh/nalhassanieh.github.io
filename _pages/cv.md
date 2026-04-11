@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[📄 Download Full CV (PDF)](/files/cv.pdf)
+
 Education
 ======
 * Ph.D in Mathematics, Rensselaer Polytechnic Institute, Troy, NY, 2023
