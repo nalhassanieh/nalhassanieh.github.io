@@ -9,60 +9,39 @@ redirect_from:
 
 {% include base_path %}
 
-[📄 CV (PDF)](/files/cv.pdf)
+[📄 Download CV (PDF)](/files/cv.pdf)
 
-Education
-======
-* Ph.D in Mathematics, Rensselaer Polytechnic Institute, Troy, NY, 2023
-* M.S. in Mathematics, American University of Beirut, Beirut, Lebanon, 2016
-* B.S. in Mathematics, Haigazian University, Beirut, Lebanon, 2014
+## Education
 
-<!-- Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- Ph.D in Mathematics, Rensselaer Polytechnic Institute, Troy, NY, 2023  
+- M.S. in Mathematics, American University of Beirut, Beirut, Lebanon, 2016  
+- B.S. in Mathematics, Haigazian University, Beirut, Lebanon, 2014  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+---
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
--->
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+## Publications
 
-  <!--
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<ul>
+{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}
+</ul>
+
+---
+
+<!--
+## Work Experience
+(kept commented out safely)
+
+## Skills
+(kept commented out safely)
+
+## Talks
+(kept commented out safely)
+
+## Teaching
+(kept commented out safely)
+
+## Service
+(kept commented out safely)
 -->
