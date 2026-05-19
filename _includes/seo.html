@@ -93,7 +93,11 @@
       "@type" : "{% if site.social.type %}{{ site.social.type }}{% else %}Person{% endif %}",
       "name" : "{{ site.social.name | default: site.name }}",
       "url" : {{ seo_url | jsonify }},
-      "sameAs" : {{ site.social.links | jsonify }}
+      "sameAs" : [
+  "https://scholar.google.com/citations?user=hYDl2OUAAAAJ&hl=en&oi=ao",
+  "https://github.com/nalhassanieh",
+  "https://www.linkedin.com/in/nour-al-hassanieh-96996a97"
+]
     }
   </script>
 {% endif %}
