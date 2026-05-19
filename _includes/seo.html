@@ -90,7 +90,7 @@
   <script type="application/ld+json">
     {
       "@context" : "https://schema.org",
-      "@type" : "{% if site.social.type %}{{ site.social.type }}{% else %}Person{% endif %}",
+      "@type" : "Person",
       "name" : "{{ site.social.name | default: site.name }}",
       "url" : {{ seo_url | jsonify }},
       "sameAs" : [
